@@ -1,7 +1,10 @@
 *.css linguist-detectable=false
 *.html linguist-detectable=false
 *.ts linguist-detectable=false
+*.tsx linguist-detectable=false
 *.json linguist-detectable=false
 *.md linguist-detectable=false
-*.jsx linguist-language=React
-*.js linguist-language=React
+*.scss linguist-detectable=false
+*.svg linguist-detectable=false
+*.jsx linguist-language=JavaScript
+*.js linguist-language=JavaScript
