@@ -33,11 +33,10 @@
 
 ## 🛠️ Built With
 
-![React]
-![JavaScript]
-![CSS3]
-![REST API]
-![Netlify]
+React
+JavaScript
+CSS3
+REST API
 
 ---
 
@@ -46,7 +45,3 @@
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
-
-### Installation
-
-```bash
